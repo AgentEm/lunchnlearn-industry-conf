@@ -1,0 +1,10 @@
+body {
+  background-color: #1dadef;
+}
+h2 {
+  text-transform: capitalize !important;
+}
+
+.underline {
+  text-decoration: underline;
+}
